@@ -1,0 +1,12 @@
+var VNC_frame_category = 'Linux Lab';
+var VNC_frame_slice_str = '=-+-+=';
+var VNC_frame_title = 'Using RLK4.0 in Linux Lab';
+var VNC_frame_create = '1503242109.556044';
+var VNC_frame_author = 'Wu Zhangjin <wuzhangjin@gmail.com>';
+var VNC_frame_encoding = 'binary';
+var VNC_frame_length = 25766;
+var VNC_frame_time = '00:15:58';
+var VNC_frame_size = '85.7M';
+var VNC_frame_tags = 'Linux, RLK4.0';
+var VNC_frame_desc = 'Using RLK4.0 Book examples in Linux Lab.';
+var VNC_frame_slices = 349;
